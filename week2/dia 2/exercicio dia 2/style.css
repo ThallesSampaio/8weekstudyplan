@@ -1,0 +1,13 @@
+body{
+    background: rgb(28, 63, 95);
+}
+header{color: white;}
+div h3{color: yellow;}
+.l1{color: white;}
+h2{background-color: yellow;
+border: 3px black solid;
+}
+.l2{color: white;}
+.l3{color: white;}
+.lx{color: white;}
+.ly{color: red;}

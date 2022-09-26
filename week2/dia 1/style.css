@@ -1,0 +1,13 @@
+li{color: rgb(145, 0, 12);}
+h1{
+    color: rgb(0, 255, 55);
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+body{
+    background-image: url(https://img.olhardigital.com.br/wp-content/uploads/2022/06/lancamento-spacex-falcon-9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.moon{color: yellow;}
